@@ -1,0 +1,7 @@
+2024-09-20 22:03:08 user input - open chrome
+2024-09-20 22:03:08 chrome - Not installed
+2024-09-20 22:03:23 user input - 
+2024-09-20 22:04:11 user input - open fm
+2024-09-20 22:04:11 opening app - fm
+2024-09-20 22:04:25 user input - bye
+2024-09-20 22:04:25 quit action
